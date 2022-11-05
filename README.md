@@ -1,6 +1,6 @@
 <img align="right" width="500" height="500" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/images/main.png">
 
-# Hola, soy desarrollador.
+# Hola, soy desarrollador. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 Full-Stack | Web (frontend and backend) |
 
