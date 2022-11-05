@@ -1,4 +1,8 @@
-### Hi there 👋
+<img align="right" width="500" height="500" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/images/main.png">
+
+# Hola, soy desarrollador.
+
+Full-Stack | Web (frontend and backend) |
 
 <!--
 **gustavoa6791/gustavoa6791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
