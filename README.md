@@ -4,11 +4,39 @@
 
 Full-Stack | Web (frontend and backend) |
 
+## Lenguajes de Programación
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <div style="display:flex;">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/html5.png">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/css.png">
+        </div>
+      </td>
+      <td>
+        <div style="display:flex;">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/js.png">
+        </div>
+      </td>
+      <td>
+        <div style="display:flex;">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/php.png">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>Maquetación WEB<br> (HTML | CSS)</td>
+      <td>JavaScript</td>
+      <td>PHP</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <!--
 **gustavoa6791/gustavoa6791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
