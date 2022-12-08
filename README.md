@@ -55,7 +55,7 @@ Full-Stack | Web (frontend and backend) |
       </td>
       <td>
         <div style="display:flex;">
-          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/laravel.png">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/laravel.svg">
         </div>
       </td>
     </tr>
