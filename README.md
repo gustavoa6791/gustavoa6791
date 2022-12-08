@@ -34,6 +34,41 @@ Full-Stack | Web (frontend and backend) |
 </table>
 
 
+## Framework
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <div style="display:flex;">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/react.svg">
+        </div>
+      </td>
+      <td>
+        <div style="display:flex;">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/vue.svg">
+        </div>
+      </td>
+      <td>
+        <div style="display:flex;">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/angular.svg">
+        </div>
+      </td>
+      <td>
+        <div style="display:flex;">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/laravel.png">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>ReactJs</td>
+      <td>VueJs</td>
+      <td>Angular</td>
+      <td>Laravel</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <!--
 **gustavoa6791/gustavoa6791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
