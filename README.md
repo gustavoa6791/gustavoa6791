@@ -24,11 +24,17 @@ Full-Stack | Web (frontend and backend) |
           <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/php.png">
         </div>
       </td>
+      <td>
+        <div style="display:flex;">
+          <img width="50" height="50" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/icons/piton.png">
+        </div>
+      </td>
     </tr>
     <tr>
       <td>Maquetación WEB<br> (HTML | CSS)</td>
       <td>JavaScript</td>
       <td>PHP</td>
+      <td>Python</td>
     </tr>
   </tbody>
 </table>
