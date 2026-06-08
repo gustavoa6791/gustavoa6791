@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/images/main.png">
+<img align="right" width="400" height="500" src="https://github.com/gustavoa6791/gustavoa6791/blob/main/images/main.png">
 
 # Hola, soy desarrollador. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
